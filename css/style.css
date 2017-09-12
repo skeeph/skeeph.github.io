@@ -1439,3 +1439,6 @@
         background-color: #D94A38;
     }
     
+    table.langs>td {
+        padding: 0;
+    }
